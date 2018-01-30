@@ -1,2 +1,2 @@
-class AddArtistToSongs < ActiveRecord::Migration[5.0]
+class AddArtistToSongs < ActiveRecord::Migration[4.2]
 end
